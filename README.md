@@ -1,4 +1,4 @@
-Follow these instructions after you have successfully downloaded R and its packages.
+Follow these instructions after you have successfully downloaded R and its libraries.
 
 1)	Before you can begin, you must download the file StatTable.csv. This is the table that includes all the data that the program uses.
 2)	Download the FinalModel.R file.
